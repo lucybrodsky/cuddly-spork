@@ -1,1 +1,1 @@
-# cuddly-spork
+# awmstudentchapters
